@@ -5,9 +5,13 @@ A Power BI dashboard analyzing 62,000+ Spotify tracks to uncover insights into t
 Features:
 
 KPIs: Total Songs, Artists, Average Tempo, and Valence.
+
 Top 10 Analysis: Artists, Danceable Tracks, and Most Popular Tracks.
+
 Trends: Song release distribution over the years.
+
 Interactivity: Filters by Artist, Language, and Year.
+
 Tools: Power BI, Data Cleaning, Visualization.
 
 The Dashboard can be accessed from here:

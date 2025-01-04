@@ -3,7 +3,7 @@
 ## Overview
 This Power BI dashboard provides insights into Spotify's extensive music dataset, analyzing trends and patterns across various metrics. It is designed to be interactive and user-friendly, offering a detailed exploration of music statistics and visualizations.
 
-![Dashboard Preview](./dashboard.png)
+![Dashboard Preview](./Dashboard.png)
 
 ## Features
 

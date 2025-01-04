@@ -47,4 +47,7 @@ This project aims to analyze Spotify's dataset to uncover:
 1. Download the Power BI file (`Spotify Dashboard.pbix`).
 2. Open it in Power BI Desktop to view or customize the dashboard.
 
+## Credits
+Data sourced from [Kaggle: Spotify Tracks Dataset by Gautham Vijayaraj]
+
 If you find this project useful, please give it a ⭐ and feel free to contribute!

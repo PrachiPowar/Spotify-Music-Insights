@@ -40,12 +40,11 @@ This project aims to analyze Spotify's dataset to uncover:
 
 ## Repository Contents
 - **`dashboard.png`**: A preview image of the dashboard.
-- **`Spotify_Analytics.pbix`**: The Power BI project file.
+- **`Spotify Dashboard.pbix`**: The Power BI project file.
 - **Dataset**: [spotify_tracks.csv](./spotify_tracks.csv)
-- **Documentation**: Detailed notes on the data preparation and insights derived from the analysis.
 
 ## How to Use
-1. Download the Power BI file (`Spotify_Analytics.pbix`).
+1. Download the Power BI file (`Spotify Dashboard.pbix`).
 2. Open it in Power BI Desktop to view or customize the dashboard.
 
 If you find this project useful, please give it a ⭐ and feel free to contribute!
